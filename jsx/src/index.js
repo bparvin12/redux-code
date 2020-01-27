@@ -13,7 +13,7 @@ const App = () => {
         {labelText}
       </label>
       <input id="name" type="text" />
-      <button style={{ backgroundColor: 'blue', color: 'white' }}>
+      <button style={{ backgroundColor: 'red', color: 'black' }}>
         {buttonText.text}
       </button>
     </div>
